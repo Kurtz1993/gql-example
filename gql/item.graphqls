@@ -1,0 +1,4 @@
+type Item {
+  ID: ID!
+  Name: String!
+}
